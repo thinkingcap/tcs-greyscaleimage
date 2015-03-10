@@ -1,8 +1,8 @@
 SilverStripe Greyscale Images
 =============================
 
-###Warning:
-Only works with the GD backend.
+###Lib:
+Requires GD lib.
 
 Installation
 ------------
