@@ -1,0 +1,7 @@
+---
+Name: greyscale
+After: 'framework/*','cms/*'
+---
+Image:
+  extensions:
+    - 'GreyscaleImage'
